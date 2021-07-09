@@ -1,6 +1,6 @@
 # Headline
 Development branch content
 
-![dev portal](images/favicon.ico)
+![dev portal](assets/favicon.ico)
 
 > An awesome project.
